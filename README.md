@@ -9,7 +9,7 @@
 
 ## 🛠 Tech Stack  
 💻 **Languages:** JavaScript | TypeScript | Elixir | PHP  
-🌐 **Frontend:** HTML | CSS | Bootstrap | React.js  
+🌐 **Frontend:** React.js | Next.js | HTML | CSS | Bootstrap |  
 🌐 **Backend:** Node.js | Nest.JS | REST-API | GraphQL | Hasura | SonarQube  
 🔭 **Databases:** PostgreSQL | SQL  
 🔧 **Tools:** GitHub | Visual Studio Code | Sublime Text | BitBucket
